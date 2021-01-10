@@ -1,0 +1,7 @@
+{
+    "gitrepo":"https://github.com/tobychui/arozos",
+    "pre-script": "pre.bat",
+    "post-script":"post.bat",
+    "folder":"./arozos",
+    "interval":259200
+}
